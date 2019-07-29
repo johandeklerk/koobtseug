@@ -1,2 +1,1 @@
-# koobtseug
-koobtseug = guestbook
+# "koobtseug" !== "guestbook" 
